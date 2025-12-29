@@ -121,17 +121,17 @@ Cách 2: Chạy ứng dụng Streamlit
 Sau khi chạy, truy cập địa chỉ hiển thị trên terminal (thường là http://localhost:8501) để sử dụng giao diện dự đoán.
 
 ### 7. Cấu trúc thư mục dự án
-FakeNewsDetection/
-│
-├── app/              # Source code chính (train, preprocess, predict, app.py)
-├── demo/             # Notebook hoặc script demo inference
-├── data/             # Data mẫu nhỏ hoặc README hướng dẫn tải data
-├── models/           # Model đã train (.pkl)
-├── reports/          # Báo cáo PDF/DOCX
-├── slides/           # Slide thuyết trình PPTX/PDF
-├── requirements.txt  # Danh sách thư viện
-├── README.md         # Hướng dẫn dự án
-└── .gitignore        # File loại trừ khi upload GitHub
+FakeNewsDetection
+
+- app/              # Source code chính (train, preprocess, predict, app.py)
+- demo/             # Notebook hoặc script demo inference
+- data/             # Data mẫu nhỏ hoặc README hướng dẫn tải data
+- models/           # Model đã train (.pkl)
+- reports/          # Báo cáo PDF/DOCX
+- slides/           # Slide thuyết trình PPTX/PDF
+- requirements.txt  # Danh sách thư viện
+- README.md         # Hướng dẫn dự án
+- .gitignore        # File loại trừ khi upload GitHub
 
 ### 8. Tác giả
 Họ tên: Vũ Đăng Khiêm
