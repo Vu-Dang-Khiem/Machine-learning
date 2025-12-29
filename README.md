@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/goumanguyen/vietnamese-fake-news-dataset-pbl7
 
 | Tên cột  | Mô tả                   |
 |----------|-------------------------|
-| label    | Nhãn (0: Fake, 1: Real) |
+| label    | Nhãn (0: Real, 1: Fake) |
 | Maintext | Nội dung bài báo        |
 
 ---
