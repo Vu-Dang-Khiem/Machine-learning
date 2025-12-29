@@ -1,0 +1,7 @@
+pandas
+matplotlib
+regex
+wordcloud
+underthesea
+scikit-learn
+streamlit
